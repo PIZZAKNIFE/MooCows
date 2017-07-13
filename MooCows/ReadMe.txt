@@ -2,11 +2,10 @@
     CONSOLE APPLICATION : MooCows Project Overview
 ========================================================================
 
-AppWizard has created this MooCows application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your MooCows application.
-
+My eventual take on Unreal C++ course section 2 work. I didn't exactly follow the
+guidelines put forth in terms of acceptance criteria - but i believe this otherwise
+satisfies the intent behind the course work: Get a basic understanding of how C++
+patterns are used. Neat.
 
 MooCows.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
